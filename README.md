@@ -1,6 +1,6 @@
 # CodeCluase_JulyInternship In DATA SCIENCE
 ## TASK 1
-## SALES ANALYSIS
+## Task name: SALES ANALYSIS
 DATA SET:
 https://www.kaggle.com/datasets/ayushigeorge/sales-dataset
 
