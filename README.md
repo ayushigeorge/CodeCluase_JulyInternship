@@ -9,7 +9,7 @@ https://github.com/ayushigeorge/CodeCluase_JulyInternship/blob/main/SALES.ipynb
 
 ## TASK 2
 ## Task name: FRAUD DETECTION
-### DATA SET: kaggle.com/datasets/ayushigeorge/creditcard
+### DATA SET: https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection
 
 ### WORKING VIDEO: https://youtu.be/syuebUydNvk
 ### CODE: https://github.com/ayushigeorge/CodeCluase_JulyInternship/blob/main/Fraud%20Detection.py
